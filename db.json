@@ -1,0 +1,16 @@
+{
+  "personnes": [
+    {
+      "id": 1,
+      "name": "anas",
+      "age": 19,
+      "gender": "mal"
+    },
+    {
+      "id": 2,
+      "name": "sakura",
+      "age": 30,
+      "gender": "femal"
+    }
+  ]
+}
